@@ -13,6 +13,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.regex.Pattern;
 
 public class ReadOperations {
+
     /**
      * Purpose : Count the number of records
      * Check the file name is correct
